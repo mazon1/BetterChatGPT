@@ -36,6 +36,6 @@ Better ChatGPT comes with a bundle of amazing features! Here are some of them:
 - Azure OpenAI endpoint support
 - Multiple language support (i18n)
 
-# References
+## References
 
 Source Code from: [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT)
