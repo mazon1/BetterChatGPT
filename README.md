@@ -3,7 +3,7 @@
 <p align="center">
    English Version |
    <a href="README-zh_CN.md">
-      简体中文版
+   
    </a>
 </p>
 
@@ -54,6 +54,7 @@ Are you ready to unlock the full potential of ChatGPT with Better ChatGPT?
 Better ChatGPT is the ultimate destination for anyone who wants to experience the limitless power of conversational AI. With no limits and completely free to use for all, our app harnesses the full potential of OpenAI's ChatGPT API to offer you an unparalleled chatbot experience.
 
 Whether you're looking to chat with a virtual assistant, improve your language skills, or simply enjoy a fun and engaging conversation, our app has got you covered. So why wait? Join us today and explore the exciting world of Better ChatGPT!
+[Try it out](https://mazon1.github.io/BetterChatGPT/)
 
 # 🔥 Features
 
